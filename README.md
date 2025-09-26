@@ -287,4 +287,6 @@ int main()
 
 
 **Result :**
+
+
 Successfully completed a C program to implement 2D transformation of image.
